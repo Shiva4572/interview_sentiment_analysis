@@ -1,0 +1,3868 @@
+{
+  "result_index": 0,
+  "results": [
+    {
+      "final": true,
+      "alternatives": [
+        {
+          "transcript": "hi my name is Janelle Davis I'm currently a student in my second year at Coventry university I'm studying economics and I really enjoy it prior to this I took a gap year from sixth form to what in the print and ship through a charity called NCS to challenge from the S. twenty fifteen to twenty sixteen my role as business administrator for recrimination say meant I was weapon of ten to twelve of the people and as it was such a small environment it meant I was able to communicate easily with others as well as asking for help when I needed it at the same time I also had a part time job in the retail sector this man I was working in the flagship store through a company called prime mug with fifteen hundred other colleagues this meant that I was very likely to bump into someone died and wouldn't necessarily bump into every day ",
+          "confidence": 0.82,
+          "timestamps": [
+            [
+              "hi",
+              1.0,
+              1.55
+            ],
+            [
+              "my",
+              1.67,
+              1.83
+            ],
+            [
+              "name",
+              1.83,
+              2.05
+            ],
+            [
+              "is",
+              2.05,
+              2.17
+            ],
+            [
+              "Janelle",
+              2.17,
+              2.47
+            ],
+            [
+              "Davis",
+              2.47,
+              3.07
+            ],
+            [
+              "I'm",
+              3.1,
+              3.27
+            ],
+            [
+              "currently",
+              3.27,
+              3.64
+            ],
+            [
+              "a",
+              3.64,
+              3.71
+            ],
+            [
+              "student",
+              3.71,
+              4.31
+            ],
+            [
+              "in",
+              4.34,
+              4.47
+            ],
+            [
+              "my",
+              4.47,
+              4.6
+            ],
+            [
+              "second",
+              4.6,
+              5.01
+            ],
+            [
+              "year",
+              5.01,
+              5.35
+            ],
+            [
+              "at",
+              5.41,
+              5.59
+            ],
+            [
+              "Coventry",
+              5.59,
+              6.04
+            ],
+            [
+              "university",
+              6.04,
+              6.93
+            ],
+            [
+              "I'm",
+              7.45,
+              7.55
+            ],
+            [
+              "studying",
+              7.55,
+              7.97
+            ],
+            [
+              "economics",
+              7.97,
+              8.68
+            ],
+            [
+              "and",
+              8.72,
+              8.88
+            ],
+            [
+              "I",
+              8.88,
+              8.94
+            ],
+            [
+              "really",
+              8.94,
+              9.37
+            ],
+            [
+              "enjoy",
+              9.37,
+              9.76
+            ],
+            [
+              "it",
+              9.76,
+              10.04
+            ],
+            [
+              "prior",
+              10.56,
+              10.87
+            ],
+            [
+              "to",
+              10.87,
+              11.02
+            ],
+            [
+              "this",
+              11.02,
+              11.44
+            ],
+            [
+              "I",
+              11.56,
+              11.76
+            ],
+            [
+              "took",
+              11.76,
+              12.0
+            ],
+            [
+              "a",
+              12.0,
+              12.08
+            ],
+            [
+              "gap",
+              12.08,
+              12.33
+            ],
+            [
+              "year",
+              12.33,
+              12.61
+            ],
+            [
+              "from",
+              12.61,
+              12.81
+            ],
+            [
+              "sixth",
+              12.81,
+              13.13
+            ],
+            [
+              "form",
+              13.13,
+              13.44
+            ],
+            [
+              "to",
+              13.44,
+              13.65
+            ],
+            [
+              "what",
+              13.65,
+              13.99
+            ],
+            [
+              "in",
+              14.02,
+              14.25
+            ],
+            [
+              "the",
+              14.25,
+              14.33
+            ],
+            [
+              "print",
+              14.33,
+              14.57
+            ],
+            [
+              "and",
+              14.57,
+              14.66
+            ],
+            [
+              "ship",
+              14.66,
+              14.97
+            ],
+            [
+              "through",
+              14.97,
+              15.4
+            ],
+            [
+              "a",
+              15.4,
+              15.48
+            ],
+            [
+              "charity",
+              15.48,
+              15.88
+            ],
+            [
+              "called",
+              15.88,
+              16.16
+            ],
+            [
+              "NCS",
+              16.19,
+              16.66
+            ],
+            [
+              "to",
+              16.66,
+              16.77
+            ],
+            [
+              "challenge",
+              16.77,
+              17.31
+            ],
+            [
+              "from",
+              17.52,
+              17.74
+            ],
+            [
+              "the",
+              17.74,
+              17.89
+            ],
+            [
+              "S.",
+              17.89,
+              18.11
+            ],
+            [
+              "twenty",
+              18.11,
+              18.46
+            ],
+            [
+              "fifteen",
+              18.46,
+              19.02
+            ],
+            [
+              "to",
+              19.02,
+              19.19
+            ],
+            [
+              "twenty",
+              19.19,
+              19.54
+            ],
+            [
+              "sixteen",
+              19.54,
+              20.17
+            ],
+            [
+              "my",
+              20.69,
+              20.88
+            ],
+            [
+              "role",
+              20.88,
+              21.17
+            ],
+            [
+              "as",
+              21.17,
+              21.43
+            ],
+            [
+              "business",
+              21.43,
+              21.9
+            ],
+            [
+              "administrator",
+              21.9,
+              22.78
+            ],
+            [
+              "for",
+              22.78,
+              22.97
+            ],
+            [
+              "recrimination",
+              22.97,
+              23.76
+            ],
+            [
+              "say",
+              23.76,
+              24.09
+            ],
+            [
+              "meant",
+              24.29,
+              24.57
+            ],
+            [
+              "I",
+              24.57,
+              24.67
+            ],
+            [
+              "was",
+              24.67,
+              24.84
+            ],
+            [
+              "weapon",
+              24.84,
+              25.19
+            ],
+            [
+              "of",
+              25.19,
+              25.29
+            ],
+            [
+              "ten",
+              25.29,
+              25.56
+            ],
+            [
+              "to",
+              25.56,
+              25.7
+            ],
+            [
+              "twelve",
+              25.7,
+              26.05
+            ],
+            [
+              "of",
+              26.05,
+              26.21
+            ],
+            [
+              "the",
+              26.21,
+              26.3
+            ],
+            [
+              "people",
+              26.3,
+              26.86
+            ],
+            [
+              "and",
+              27.18,
+              27.35
+            ],
+            [
+              "as",
+              27.38,
+              27.57
+            ],
+            [
+              "it",
+              27.57,
+              27.65
+            ],
+            [
+              "was",
+              27.65,
+              27.77
+            ],
+            [
+              "such",
+              27.77,
+              28.03
+            ],
+            [
+              "a",
+              28.03,
+              28.09
+            ],
+            [
+              "small",
+              28.09,
+              28.36
+            ],
+            [
+              "environment",
+              28.36,
+              28.98
+            ],
+            [
+              "it",
+              29.06,
+              29.21
+            ],
+            [
+              "meant",
+              29.21,
+              29.44
+            ],
+            [
+              "I",
+              29.44,
+              29.53
+            ],
+            [
+              "was",
+              29.53,
+              29.7
+            ],
+            [
+              "able",
+              29.7,
+              29.94
+            ],
+            [
+              "to",
+              29.94,
+              30.03
+            ],
+            [
+              "communicate",
+              30.03,
+              30.69
+            ],
+            [
+              "easily",
+              30.69,
+              31.18
+            ],
+            [
+              "with",
+              31.18,
+              31.36
+            ],
+            [
+              "others",
+              31.36,
+              31.77
+            ],
+            [
+              "as",
+              31.8,
+              32.0
+            ],
+            [
+              "well",
+              32.0,
+              32.18
+            ],
+            [
+              "as",
+              32.18,
+              32.27
+            ],
+            [
+              "asking",
+              32.27,
+              32.64
+            ],
+            [
+              "for",
+              32.64,
+              32.76
+            ],
+            [
+              "help",
+              32.76,
+              33.08
+            ],
+            [
+              "when",
+              33.08,
+              33.22
+            ],
+            [
+              "I",
+              33.22,
+              33.28
+            ],
+            [
+              "needed",
+              33.51,
+              33.89
+            ],
+            [
+              "it",
+              33.89,
+              34.11
+            ],
+            [
+              "at",
+              34.84,
+              35.03
+            ],
+            [
+              "the",
+              35.03,
+              35.11
+            ],
+            [
+              "same",
+              35.11,
+              35.39
+            ],
+            [
+              "time",
+              35.39,
+              35.92
+            ],
+            [
+              "I",
+              36.06,
+              36.19
+            ],
+            [
+              "also",
+              36.19,
+              36.74
+            ],
+            [
+              "had",
+              36.77,
+              37.0
+            ],
+            [
+              "a",
+              37.0,
+              37.05
+            ],
+            [
+              "part",
+              37.05,
+              37.38
+            ],
+            [
+              "time",
+              37.38,
+              37.65
+            ],
+            [
+              "job",
+              37.65,
+              38.02
+            ],
+            [
+              "in",
+              38.05,
+              38.19
+            ],
+            [
+              "the",
+              38.19,
+              38.29
+            ],
+            [
+              "retail",
+              38.29,
+              38.73
+            ],
+            [
+              "sector",
+              38.73,
+              39.36
+            ],
+            [
+              "this",
+              39.79,
+              39.94
+            ],
+            [
+              "man",
+              39.94,
+              40.16
+            ],
+            [
+              "I",
+              40.16,
+              40.25
+            ],
+            [
+              "was",
+              40.25,
+              40.44
+            ],
+            [
+              "working",
+              40.44,
+              40.8
+            ],
+            [
+              "in",
+              40.8,
+              40.9
+            ],
+            [
+              "the",
+              40.9,
+              40.97
+            ],
+            [
+              "flagship",
+              40.97,
+              41.48
+            ],
+            [
+              "store",
+              41.48,
+              42.03
+            ],
+            [
+              "through",
+              42.16,
+              42.36
+            ],
+            [
+              "a",
+              42.36,
+              42.42
+            ],
+            [
+              "company",
+              42.42,
+              42.85
+            ],
+            [
+              "called",
+              42.85,
+              43.1
+            ],
+            [
+              "prime",
+              43.1,
+              43.39
+            ],
+            [
+              "mug",
+              43.39,
+              43.76
+            ],
+            [
+              "with",
+              44.05,
+              44.29
+            ],
+            [
+              "fifteen",
+              44.29,
+              44.96
+            ],
+            [
+              "hundred",
+              44.96,
+              45.66
+            ],
+            [
+              "other",
+              45.7,
+              45.95
+            ],
+            [
+              "colleagues",
+              45.95,
+              46.61
+            ],
+            [
+              "this",
+              46.97,
+              47.17
+            ],
+            [
+              "meant",
+              47.17,
+              47.37
+            ],
+            [
+              "that",
+              47.37,
+              47.48
+            ],
+            [
+              "I",
+              47.48,
+              47.55
+            ],
+            [
+              "was",
+              47.55,
+              47.75
+            ],
+            [
+              "very",
+              47.75,
+              48.08
+            ],
+            [
+              "likely",
+              48.08,
+              48.54
+            ],
+            [
+              "to",
+              48.54,
+              48.7
+            ],
+            [
+              "bump",
+              48.7,
+              48.98
+            ],
+            [
+              "into",
+              48.98,
+              49.21
+            ],
+            [
+              "someone",
+              49.21,
+              49.51
+            ],
+            [
+              "died",
+              49.51,
+              49.73
+            ],
+            [
+              "and",
+              49.73,
+              50.12
+            ],
+            [
+              "wouldn't",
+              50.22,
+              50.51
+            ],
+            [
+              "necessarily",
+              50.51,
+              51.14
+            ],
+            [
+              "bump",
+              51.14,
+              51.44
+            ],
+            [
+              "into",
+              51.44,
+              51.77
+            ],
+            [
+              "every",
+              51.77,
+              52.04
+            ],
+            [
+              "day",
+              52.04,
+              52.38
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "final": true,
+      "alternatives": [
+        {
+          "transcript": "what can in these two convicted environments SO one B. in small one VM very lost this meant that I was able to develop my doctor Betty skills as well as my interpersonal skills of communicating effectively as a team this also gave me the opportunity to develop professional relationships with all of my other colleagues in order to sustain the reputation of the business ",
+          "confidence": 0.83,
+          "timestamps": [
+            [
+              "what",
+              53.47,
+              53.9
+            ],
+            [
+              "can",
+              53.9,
+              54.06
+            ],
+            [
+              "in",
+              54.06,
+              54.19
+            ],
+            [
+              "these",
+              54.19,
+              54.45
+            ],
+            [
+              "two",
+              54.45,
+              54.65
+            ],
+            [
+              "convicted",
+              54.65,
+              55.28
+            ],
+            [
+              "environments",
+              55.28,
+              55.88
+            ],
+            [
+              "SO",
+              55.88,
+              56.14
+            ],
+            [
+              "one",
+              56.14,
+              56.37
+            ],
+            [
+              "B.",
+              56.37,
+              56.52
+            ],
+            [
+              "in",
+              56.52,
+              56.64
+            ],
+            [
+              "small",
+              56.64,
+              57.15
+            ],
+            [
+              "one",
+              57.18,
+              57.47
+            ],
+            [
+              "VM",
+              57.47,
+              57.78
+            ],
+            [
+              "very",
+              57.78,
+              58.08
+            ],
+            [
+              "lost",
+              58.08,
+              58.54
+            ],
+            [
+              "this",
+              58.86,
+              59.06
+            ],
+            [
+              "meant",
+              59.06,
+              59.29
+            ],
+            [
+              "that",
+              59.29,
+              59.41
+            ],
+            [
+              "I",
+              59.41,
+              59.48
+            ],
+            [
+              "was",
+              59.48,
+              59.69
+            ],
+            [
+              "able",
+              59.69,
+              59.96
+            ],
+            [
+              "to",
+              59.96,
+              60.1
+            ],
+            [
+              "develop",
+              60.1,
+              60.67
+            ],
+            [
+              "my",
+              60.83,
+              61.01
+            ],
+            [
+              "doctor",
+              61.01,
+              61.36
+            ],
+            [
+              "Betty",
+              61.36,
+              61.67
+            ],
+            [
+              "skills",
+              61.67,
+              62.19
+            ],
+            [
+              "as",
+              62.34,
+              62.54
+            ],
+            [
+              "well",
+              62.54,
+              62.75
+            ],
+            [
+              "as",
+              62.75,
+              62.85
+            ],
+            [
+              "my",
+              62.85,
+              63.01
+            ],
+            [
+              "interpersonal",
+              63.01,
+              63.72
+            ],
+            [
+              "skills",
+              63.72,
+              64.21
+            ],
+            [
+              "of",
+              64.39,
+              64.56
+            ],
+            [
+              "communicating",
+              64.56,
+              65.24
+            ],
+            [
+              "effectively",
+              65.24,
+              65.9
+            ],
+            [
+              "as",
+              65.9,
+              66.1
+            ],
+            [
+              "a",
+              66.1,
+              66.17
+            ],
+            [
+              "team",
+              66.17,
+              66.62
+            ],
+            [
+              "this",
+              67.35,
+              67.56
+            ],
+            [
+              "also",
+              67.56,
+              67.94
+            ],
+            [
+              "gave",
+              67.94,
+              68.22
+            ],
+            [
+              "me",
+              68.22,
+              68.35
+            ],
+            [
+              "the",
+              68.35,
+              68.48
+            ],
+            [
+              "opportunity",
+              68.48,
+              69.09
+            ],
+            [
+              "to",
+              69.09,
+              69.23
+            ],
+            [
+              "develop",
+              69.23,
+              69.71
+            ],
+            [
+              "professional",
+              69.74,
+              70.43
+            ],
+            [
+              "relationships",
+              70.43,
+              71.24
+            ],
+            [
+              "with",
+              71.34,
+              71.68
+            ],
+            [
+              "all",
+              71.71,
+              71.96
+            ],
+            [
+              "of",
+              71.96,
+              72.05
+            ],
+            [
+              "my",
+              72.05,
+              72.2
+            ],
+            [
+              "other",
+              72.2,
+              72.4
+            ],
+            [
+              "colleagues",
+              72.4,
+              72.9
+            ],
+            [
+              "in",
+              73.05,
+              73.18
+            ],
+            [
+              "order",
+              73.18,
+              73.44
+            ],
+            [
+              "to",
+              73.44,
+              73.63
+            ],
+            [
+              "sustain",
+              73.63,
+              74.27
+            ],
+            [
+              "the",
+              74.42,
+              74.55
+            ],
+            [
+              "reputation",
+              74.55,
+              75.37
+            ],
+            [
+              "of",
+              75.4,
+              75.57
+            ],
+            [
+              "the",
+              75.57,
+              75.69
+            ],
+            [
+              "business",
+              75.69,
+              76.36
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "final": true,
+      "alternatives": [
+        {
+          "transcript": "at the end of my employment with prime market they offered me a part time supervisor position but unfortunately I had to decline because I needed to focus on my studies in addition to this I was also offered a flexible position three the recruitment agency for when I returned home during the holidays I believe that the I am best suited for book for this role of business intelligence because of these interchangeable skills which I have and I've gained it through almost four years of experience why can in a customer focused role ",
+          "confidence": 0.89,
+          "timestamps": [
+            [
+              "at",
+              77.17,
+              77.39
+            ],
+            [
+              "the",
+              77.39,
+              77.5
+            ],
+            [
+              "end",
+              77.5,
+              77.73
+            ],
+            [
+              "of",
+              77.73,
+              77.84
+            ],
+            [
+              "my",
+              77.84,
+              78.0
+            ],
+            [
+              "employment",
+              78.0,
+              78.48
+            ],
+            [
+              "with",
+              78.48,
+              78.6
+            ],
+            [
+              "prime",
+              78.6,
+              78.92
+            ],
+            [
+              "market",
+              78.92,
+              79.37
+            ],
+            [
+              "they",
+              79.37,
+              79.52
+            ],
+            [
+              "offered",
+              79.52,
+              79.9
+            ],
+            [
+              "me",
+              79.9,
+              80.24
+            ],
+            [
+              "a",
+              80.31,
+              80.41
+            ],
+            [
+              "part",
+              80.41,
+              80.79
+            ],
+            [
+              "time",
+              80.79,
+              81.07
+            ],
+            [
+              "supervisor",
+              81.07,
+              81.85
+            ],
+            [
+              "position",
+              81.85,
+              82.48
+            ],
+            [
+              "but",
+              82.7,
+              82.85
+            ],
+            [
+              "unfortunately",
+              82.85,
+              83.77
+            ],
+            [
+              "I",
+              83.8,
+              83.91
+            ],
+            [
+              "had",
+              83.91,
+              84.09
+            ],
+            [
+              "to",
+              84.09,
+              84.21
+            ],
+            [
+              "decline",
+              84.21,
+              84.67
+            ],
+            [
+              "because",
+              84.67,
+              84.98
+            ],
+            [
+              "I",
+              84.98,
+              85.04
+            ],
+            [
+              "needed",
+              85.04,
+              85.34
+            ],
+            [
+              "to",
+              85.34,
+              85.45
+            ],
+            [
+              "focus",
+              85.45,
+              85.82
+            ],
+            [
+              "on",
+              85.82,
+              85.9
+            ],
+            [
+              "my",
+              85.9,
+              86.0
+            ],
+            [
+              "studies",
+              86.0,
+              86.58
+            ],
+            [
+              "in",
+              87.27,
+              87.44
+            ],
+            [
+              "addition",
+              87.44,
+              87.84
+            ],
+            [
+              "to",
+              87.84,
+              87.98
+            ],
+            [
+              "this",
+              87.98,
+              88.44
+            ],
+            [
+              "I",
+              88.75,
+              88.87
+            ],
+            [
+              "was",
+              88.87,
+              89.08
+            ],
+            [
+              "also",
+              89.11,
+              89.58
+            ],
+            [
+              "offered",
+              89.58,
+              89.99
+            ],
+            [
+              "a",
+              89.99,
+              90.07
+            ],
+            [
+              "flexible",
+              90.07,
+              90.72
+            ],
+            [
+              "position",
+              90.72,
+              91.41
+            ],
+            [
+              "three",
+              91.63,
+              91.91
+            ],
+            [
+              "the",
+              91.91,
+              92.02
+            ],
+            [
+              "recruitment",
+              92.02,
+              92.54
+            ],
+            [
+              "agency",
+              92.54,
+              93.38
+            ],
+            [
+              "for",
+              93.48,
+              93.66
+            ],
+            [
+              "when",
+              93.66,
+              93.84
+            ],
+            [
+              "I",
+              93.84,
+              93.89
+            ],
+            [
+              "returned",
+              93.89,
+              94.35
+            ],
+            [
+              "home",
+              94.35,
+              94.61
+            ],
+            [
+              "during",
+              94.61,
+              94.92
+            ],
+            [
+              "the",
+              94.92,
+              95.0
+            ],
+            [
+              "holidays",
+              95.0,
+              95.7
+            ],
+            [
+              "I",
+              96.4,
+              96.57
+            ],
+            [
+              "believe",
+              96.57,
+              97.01
+            ],
+            [
+              "that",
+              97.01,
+              97.17
+            ],
+            [
+              "the",
+              97.17,
+              97.28
+            ],
+            [
+              "I",
+              97.28,
+              97.4
+            ],
+            [
+              "am",
+              97.4,
+              97.56
+            ],
+            [
+              "best",
+              97.56,
+              97.91
+            ],
+            [
+              "suited",
+              97.91,
+              98.24
+            ],
+            [
+              "for",
+              98.24,
+              98.49
+            ],
+            [
+              "book",
+              98.49,
+              98.84
+            ],
+            [
+              "for",
+              98.87,
+              99.08
+            ],
+            [
+              "this",
+              99.08,
+              99.33
+            ],
+            [
+              "role",
+              99.33,
+              99.79
+            ],
+            [
+              "of",
+              99.82,
+              100.0
+            ],
+            [
+              "business",
+              100.0,
+              100.41
+            ],
+            [
+              "intelligence",
+              100.41,
+              101.12
+            ],
+            [
+              "because",
+              101.37,
+              101.79
+            ],
+            [
+              "of",
+              101.79,
+              101.9
+            ],
+            [
+              "these",
+              101.9,
+              102.15
+            ],
+            [
+              "interchangeable",
+              102.15,
+              102.9
+            ],
+            [
+              "skills",
+              102.9,
+              103.29
+            ],
+            [
+              "which",
+              103.29,
+              103.51
+            ],
+            [
+              "I",
+              103.51,
+              103.6
+            ],
+            [
+              "have",
+              103.6,
+              103.99
+            ],
+            [
+              "and",
+              104.53,
+              104.74
+            ],
+            [
+              "I've",
+              104.74,
+              104.88
+            ],
+            [
+              "gained",
+              104.88,
+              105.24
+            ],
+            [
+              "it",
+              105.24,
+              105.4
+            ],
+            [
+              "through",
+              105.4,
+              105.84
+            ],
+            [
+              "almost",
+              105.87,
+              106.4
+            ],
+            [
+              "four",
+              106.47,
+              106.85
+            ],
+            [
+              "years",
+              106.85,
+              107.52
+            ],
+            [
+              "of",
+              107.7,
+              107.83
+            ],
+            [
+              "experience",
+              107.83,
+              108.59
+            ],
+            [
+              "why",
+              108.62,
+              108.94
+            ],
+            [
+              "can",
+              108.94,
+              109.3
+            ],
+            [
+              "in",
+              109.33,
+              109.45
+            ],
+            [
+              "a",
+              109.45,
+              109.5
+            ],
+            [
+              "customer",
+              109.5,
+              109.95
+            ],
+            [
+              "focused",
+              109.95,
+              110.54
+            ],
+            [
+              "role",
+              110.54,
+              110.86
+            ]
+          ]
+        }
+      ]
+    }
+  ],
+  "speaker_labels": [
+    {
+      "from": 1.0,
+      "to": 1.55,
+      "speaker": 0,
+      "confidence": 0.5,
+      "final": false
+    },
+    {
+      "from": 1.67,
+      "to": 1.83,
+      "speaker": 0,
+      "confidence": 0.52,
+      "final": false
+    },
+    {
+      "from": 1.83,
+      "to": 2.05,
+      "speaker": 0,
+      "confidence": 0.52,
+      "final": false
+    },
+    {
+      "from": 2.05,
+      "to": 2.17,
+      "speaker": 0,
+      "confidence": 0.52,
+      "final": false
+    },
+    {
+      "from": 2.17,
+      "to": 2.47,
+      "speaker": 0,
+      "confidence": 0.52,
+      "final": false
+    },
+    {
+      "from": 2.47,
+      "to": 3.07,
+      "speaker": 0,
+      "confidence": 0.52,
+      "final": false
+    },
+    {
+      "from": 3.1,
+      "to": 3.27,
+      "speaker": 0,
+      "confidence": 0.51,
+      "final": false
+    },
+    {
+      "from": 3.27,
+      "to": 3.64,
+      "speaker": 0,
+      "confidence": 0.51,
+      "final": false
+    },
+    {
+      "from": 3.64,
+      "to": 3.71,
+      "speaker": 0,
+      "confidence": 0.51,
+      "final": false
+    },
+    {
+      "from": 3.71,
+      "to": 4.31,
+      "speaker": 0,
+      "confidence": 0.51,
+      "final": false
+    },
+    {
+      "from": 4.34,
+      "to": 4.47,
+      "speaker": 0,
+      "confidence": 0.44,
+      "final": false
+    },
+    {
+      "from": 4.47,
+      "to": 4.6,
+      "speaker": 0,
+      "confidence": 0.44,
+      "final": false
+    },
+    {
+      "from": 4.6,
+      "to": 5.01,
+      "speaker": 0,
+      "confidence": 0.44,
+      "final": false
+    },
+    {
+      "from": 5.01,
+      "to": 5.35,
+      "speaker": 0,
+      "confidence": 0.44,
+      "final": false
+    },
+    {
+      "from": 5.41,
+      "to": 5.59,
+      "speaker": 0,
+      "confidence": 0.54,
+      "final": false
+    },
+    {
+      "from": 5.59,
+      "to": 6.04,
+      "speaker": 0,
+      "confidence": 0.54,
+      "final": false
+    },
+    {
+      "from": 6.04,
+      "to": 6.93,
+      "speaker": 0,
+      "confidence": 0.54,
+      "final": false
+    },
+    {
+      "from": 7.45,
+      "to": 7.55,
+      "speaker": 0,
+      "confidence": 0.49,
+      "final": false
+    },
+    {
+      "from": 7.55,
+      "to": 7.97,
+      "speaker": 0,
+      "confidence": 0.49,
+      "final": false
+    },
+    {
+      "from": 7.97,
+      "to": 8.68,
+      "speaker": 0,
+      "confidence": 0.49,
+      "final": false
+    },
+    {
+      "from": 8.72,
+      "to": 8.88,
+      "speaker": 0,
+      "confidence": 0.47,
+      "final": false
+    },
+    {
+      "from": 8.88,
+      "to": 8.94,
+      "speaker": 0,
+      "confidence": 0.47,
+      "final": false
+    },
+    {
+      "from": 8.94,
+      "to": 9.37,
+      "speaker": 0,
+      "confidence": 0.47,
+      "final": false
+    },
+    {
+      "from": 9.37,
+      "to": 9.76,
+      "speaker": 0,
+      "confidence": 0.47,
+      "final": false
+    },
+    {
+      "from": 9.76,
+      "to": 10.04,
+      "speaker": 0,
+      "confidence": 0.47,
+      "final": false
+    },
+    {
+      "from": 10.56,
+      "to": 10.87,
+      "speaker": 0,
+      "confidence": 0.51,
+      "final": false
+    },
+    {
+      "from": 10.87,
+      "to": 11.02,
+      "speaker": 0,
+      "confidence": 0.51,
+      "final": false
+    },
+    {
+      "from": 11.02,
+      "to": 11.44,
+      "speaker": 0,
+      "confidence": 0.51,
+      "final": false
+    },
+    {
+      "from": 11.56,
+      "to": 11.76,
+      "speaker": 0,
+      "confidence": 0.51,
+      "final": false
+    },
+    {
+      "from": 11.76,
+      "to": 12.0,
+      "speaker": 0,
+      "confidence": 0.51,
+      "final": false
+    },
+    {
+      "from": 12.0,
+      "to": 12.08,
+      "speaker": 0,
+      "confidence": 0.51,
+      "final": false
+    },
+    {
+      "from": 12.08,
+      "to": 12.33,
+      "speaker": 0,
+      "confidence": 0.51,
+      "final": false
+    },
+    {
+      "from": 12.33,
+      "to": 12.61,
+      "speaker": 0,
+      "confidence": 0.51,
+      "final": false
+    },
+    {
+      "from": 12.61,
+      "to": 12.81,
+      "speaker": 0,
+      "confidence": 0.51,
+      "final": false
+    },
+    {
+      "from": 12.81,
+      "to": 13.13,
+      "speaker": 0,
+      "confidence": 0.51,
+      "final": false
+    },
+    {
+      "from": 13.13,
+      "to": 13.44,
+      "speaker": 0,
+      "confidence": 0.51,
+      "final": false
+    },
+    {
+      "from": 13.44,
+      "to": 13.65,
+      "speaker": 0,
+      "confidence": 0.51,
+      "final": false
+    },
+    {
+      "from": 13.65,
+      "to": 13.99,
+      "speaker": 0,
+      "confidence": 0.51,
+      "final": false
+    },
+    {
+      "from": 14.02,
+      "to": 14.25,
+      "speaker": 0,
+      "confidence": 0.5,
+      "final": false
+    },
+    {
+      "from": 14.25,
+      "to": 14.33,
+      "speaker": 0,
+      "confidence": 0.5,
+      "final": false
+    },
+    {
+      "from": 14.33,
+      "to": 14.57,
+      "speaker": 0,
+      "confidence": 0.5,
+      "final": false
+    },
+    {
+      "from": 14.57,
+      "to": 14.66,
+      "speaker": 0,
+      "confidence": 0.5,
+      "final": false
+    },
+    {
+      "from": 14.66,
+      "to": 14.97,
+      "speaker": 0,
+      "confidence": 0.5,
+      "final": false
+    },
+    {
+      "from": 14.97,
+      "to": 15.4,
+      "speaker": 0,
+      "confidence": 0.5,
+      "final": false
+    },
+    {
+      "from": 15.4,
+      "to": 15.48,
+      "speaker": 0,
+      "confidence": 0.5,
+      "final": false
+    },
+    {
+      "from": 15.48,
+      "to": 15.88,
+      "speaker": 0,
+      "confidence": 0.5,
+      "final": false
+    },
+    {
+      "from": 15.88,
+      "to": 16.16,
+      "speaker": 0,
+      "confidence": 0.5,
+      "final": false
+    },
+    {
+      "from": 16.19,
+      "to": 16.66,
+      "speaker": 0,
+      "confidence": 0.44,
+      "final": false
+    },
+    {
+      "from": 16.66,
+      "to": 16.77,
+      "speaker": 0,
+      "confidence": 0.44,
+      "final": false
+    },
+    {
+      "from": 16.77,
+      "to": 17.31,
+      "speaker": 0,
+      "confidence": 0.44,
+      "final": false
+    },
+    {
+      "from": 17.52,
+      "to": 17.74,
+      "speaker": 0,
+      "confidence": 0.52,
+      "final": false
+    },
+    {
+      "from": 17.74,
+      "to": 17.89,
+      "speaker": 0,
+      "confidence": 0.52,
+      "final": false
+    },
+    {
+      "from": 17.89,
+      "to": 18.11,
+      "speaker": 0,
+      "confidence": 0.52,
+      "final": false
+    },
+    {
+      "from": 18.11,
+      "to": 18.46,
+      "speaker": 0,
+      "confidence": 0.52,
+      "final": false
+    },
+    {
+      "from": 18.46,
+      "to": 19.02,
+      "speaker": 0,
+      "confidence": 0.52,
+      "final": false
+    },
+    {
+      "from": 19.02,
+      "to": 19.19,
+      "speaker": 0,
+      "confidence": 0.52,
+      "final": false
+    },
+    {
+      "from": 19.19,
+      "to": 19.54,
+      "speaker": 0,
+      "confidence": 0.52,
+      "final": false
+    },
+    {
+      "from": 19.54,
+      "to": 20.17,
+      "speaker": 0,
+      "confidence": 0.52,
+      "final": false
+    },
+    {
+      "from": 20.69,
+      "to": 20.88,
+      "speaker": 0,
+      "confidence": 0.46,
+      "final": false
+    },
+    {
+      "from": 20.88,
+      "to": 21.17,
+      "speaker": 0,
+      "confidence": 0.46,
+      "final": false
+    },
+    {
+      "from": 21.17,
+      "to": 21.43,
+      "speaker": 0,
+      "confidence": 0.46,
+      "final": false
+    },
+    {
+      "from": 21.43,
+      "to": 21.9,
+      "speaker": 0,
+      "confidence": 0.46,
+      "final": false
+    },
+    {
+      "from": 21.9,
+      "to": 22.78,
+      "speaker": 0,
+      "confidence": 0.46,
+      "final": false
+    },
+    {
+      "from": 22.78,
+      "to": 22.97,
+      "speaker": 0,
+      "confidence": 0.46,
+      "final": false
+    },
+    {
+      "from": 22.97,
+      "to": 23.76,
+      "speaker": 0,
+      "confidence": 0.46,
+      "final": false
+    },
+    {
+      "from": 23.76,
+      "to": 24.09,
+      "speaker": 0,
+      "confidence": 0.46,
+      "final": false
+    },
+    {
+      "from": 24.29,
+      "to": 24.57,
+      "speaker": 0,
+      "confidence": 0.44,
+      "final": false
+    },
+    {
+      "from": 24.57,
+      "to": 24.67,
+      "speaker": 0,
+      "confidence": 0.44,
+      "final": false
+    },
+    {
+      "from": 24.67,
+      "to": 24.84,
+      "speaker": 0,
+      "confidence": 0.44,
+      "final": false
+    },
+    {
+      "from": 24.84,
+      "to": 25.19,
+      "speaker": 0,
+      "confidence": 0.44,
+      "final": false
+    },
+    {
+      "from": 25.19,
+      "to": 25.29,
+      "speaker": 0,
+      "confidence": 0.44,
+      "final": false
+    },
+    {
+      "from": 25.29,
+      "to": 25.56,
+      "speaker": 0,
+      "confidence": 0.44,
+      "final": false
+    },
+    {
+      "from": 25.56,
+      "to": 25.7,
+      "speaker": 0,
+      "confidence": 0.44,
+      "final": false
+    },
+    {
+      "from": 25.7,
+      "to": 26.05,
+      "speaker": 0,
+      "confidence": 0.44,
+      "final": false
+    },
+    {
+      "from": 26.05,
+      "to": 26.21,
+      "speaker": 0,
+      "confidence": 0.44,
+      "final": false
+    },
+    {
+      "from": 26.21,
+      "to": 26.3,
+      "speaker": 0,
+      "confidence": 0.44,
+      "final": false
+    },
+    {
+      "from": 26.3,
+      "to": 26.86,
+      "speaker": 0,
+      "confidence": 0.44,
+      "final": false
+    },
+    {
+      "from": 27.18,
+      "to": 27.35,
+      "speaker": 1,
+      "confidence": 0.49,
+      "final": false
+    },
+    {
+      "from": 27.38,
+      "to": 27.57,
+      "speaker": 1,
+      "confidence": 0.48,
+      "final": false
+    },
+    {
+      "from": 27.57,
+      "to": 27.65,
+      "speaker": 1,
+      "confidence": 0.48,
+      "final": false
+    },
+    {
+      "from": 27.65,
+      "to": 27.77,
+      "speaker": 1,
+      "confidence": 0.48,
+      "final": false
+    },
+    {
+      "from": 27.77,
+      "to": 28.03,
+      "speaker": 1,
+      "confidence": 0.48,
+      "final": false
+    },
+    {
+      "from": 28.03,
+      "to": 28.09,
+      "speaker": 1,
+      "confidence": 0.48,
+      "final": false
+    },
+    {
+      "from": 28.09,
+      "to": 28.36,
+      "speaker": 1,
+      "confidence": 0.48,
+      "final": false
+    },
+    {
+      "from": 28.36,
+      "to": 28.98,
+      "speaker": 1,
+      "confidence": 0.48,
+      "final": false
+    },
+    {
+      "from": 29.06,
+      "to": 29.21,
+      "speaker": 1,
+      "confidence": 0.51,
+      "final": false
+    },
+    {
+      "from": 29.21,
+      "to": 29.44,
+      "speaker": 1,
+      "confidence": 0.51,
+      "final": false
+    },
+    {
+      "from": 29.44,
+      "to": 29.53,
+      "speaker": 1,
+      "confidence": 0.51,
+      "final": false
+    },
+    {
+      "from": 29.53,
+      "to": 29.7,
+      "speaker": 1,
+      "confidence": 0.51,
+      "final": false
+    },
+    {
+      "from": 29.7,
+      "to": 29.94,
+      "speaker": 1,
+      "confidence": 0.51,
+      "final": false
+    },
+    {
+      "from": 29.94,
+      "to": 30.03,
+      "speaker": 1,
+      "confidence": 0.51,
+      "final": false
+    },
+    {
+      "from": 30.03,
+      "to": 30.69,
+      "speaker": 1,
+      "confidence": 0.51,
+      "final": false
+    },
+    {
+      "from": 30.69,
+      "to": 31.18,
+      "speaker": 1,
+      "confidence": 0.51,
+      "final": false
+    },
+    {
+      "from": 31.18,
+      "to": 31.36,
+      "speaker": 1,
+      "confidence": 0.51,
+      "final": false
+    },
+    {
+      "from": 31.36,
+      "to": 31.77,
+      "speaker": 1,
+      "confidence": 0.51,
+      "final": false
+    },
+    {
+      "from": 31.8,
+      "to": 32.0,
+      "speaker": 0,
+      "confidence": 0.33,
+      "final": false
+    },
+    {
+      "from": 32.0,
+      "to": 32.18,
+      "speaker": 0,
+      "confidence": 0.33,
+      "final": false
+    },
+    {
+      "from": 32.18,
+      "to": 32.27,
+      "speaker": 0,
+      "confidence": 0.33,
+      "final": false
+    },
+    {
+      "from": 32.27,
+      "to": 32.64,
+      "speaker": 0,
+      "confidence": 0.33,
+      "final": false
+    },
+    {
+      "from": 32.64,
+      "to": 32.76,
+      "speaker": 0,
+      "confidence": 0.33,
+      "final": false
+    },
+    {
+      "from": 32.76,
+      "to": 33.08,
+      "speaker": 0,
+      "confidence": 0.33,
+      "final": false
+    },
+    {
+      "from": 33.08,
+      "to": 33.22,
+      "speaker": 0,
+      "confidence": 0.33,
+      "final": false
+    },
+    {
+      "from": 33.22,
+      "to": 33.28,
+      "speaker": 0,
+      "confidence": 0.33,
+      "final": false
+    },
+    {
+      "from": 33.51,
+      "to": 33.89,
+      "speaker": 1,
+      "confidence": 0.48,
+      "final": false
+    },
+    {
+      "from": 33.89,
+      "to": 34.11,
+      "speaker": 1,
+      "confidence": 0.48,
+      "final": false
+    },
+    {
+      "from": 34.84,
+      "to": 35.03,
+      "speaker": 1,
+      "confidence": 0.44,
+      "final": false
+    },
+    {
+      "from": 35.03,
+      "to": 35.11,
+      "speaker": 1,
+      "confidence": 0.44,
+      "final": false
+    },
+    {
+      "from": 35.11,
+      "to": 35.39,
+      "speaker": 1,
+      "confidence": 0.44,
+      "final": false
+    },
+    {
+      "from": 35.39,
+      "to": 35.92,
+      "speaker": 1,
+      "confidence": 0.44,
+      "final": false
+    },
+    {
+      "from": 36.06,
+      "to": 36.19,
+      "speaker": 1,
+      "confidence": 0.4,
+      "final": false
+    },
+    {
+      "from": 36.19,
+      "to": 36.74,
+      "speaker": 1,
+      "confidence": 0.4,
+      "final": false
+    },
+    {
+      "from": 36.77,
+      "to": 37.0,
+      "speaker": 1,
+      "confidence": 0.52,
+      "final": false
+    },
+    {
+      "from": 37.0,
+      "to": 37.05,
+      "speaker": 1,
+      "confidence": 0.52,
+      "final": false
+    },
+    {
+      "from": 37.05,
+      "to": 37.38,
+      "speaker": 1,
+      "confidence": 0.52,
+      "final": false
+    },
+    {
+      "from": 37.38,
+      "to": 37.65,
+      "speaker": 1,
+      "confidence": 0.52,
+      "final": false
+    },
+    {
+      "from": 37.65,
+      "to": 38.02,
+      "speaker": 1,
+      "confidence": 0.52,
+      "final": false
+    },
+    {
+      "from": 38.05,
+      "to": 38.19,
+      "speaker": 1,
+      "confidence": 0.5,
+      "final": false
+    },
+    {
+      "from": 38.19,
+      "to": 38.29,
+      "speaker": 1,
+      "confidence": 0.5,
+      "final": false
+    },
+    {
+      "from": 38.29,
+      "to": 38.73,
+      "speaker": 1,
+      "confidence": 0.5,
+      "final": false
+    },
+    {
+      "from": 38.73,
+      "to": 39.36,
+      "speaker": 1,
+      "confidence": 0.5,
+      "final": false
+    },
+    {
+      "from": 39.79,
+      "to": 39.94,
+      "speaker": 0,
+      "confidence": 0.43,
+      "final": false
+    },
+    {
+      "from": 39.94,
+      "to": 40.16,
+      "speaker": 0,
+      "confidence": 0.43,
+      "final": false
+    },
+    {
+      "from": 40.16,
+      "to": 40.25,
+      "speaker": 0,
+      "confidence": 0.43,
+      "final": false
+    },
+    {
+      "from": 40.25,
+      "to": 40.44,
+      "speaker": 0,
+      "confidence": 0.43,
+      "final": false
+    },
+    {
+      "from": 40.44,
+      "to": 40.8,
+      "speaker": 0,
+      "confidence": 0.43,
+      "final": false
+    },
+    {
+      "from": 40.8,
+      "to": 40.9,
+      "speaker": 0,
+      "confidence": 0.43,
+      "final": false
+    },
+    {
+      "from": 40.9,
+      "to": 40.97,
+      "speaker": 0,
+      "confidence": 0.43,
+      "final": false
+    },
+    {
+      "from": 40.97,
+      "to": 41.48,
+      "speaker": 0,
+      "confidence": 0.43,
+      "final": false
+    },
+    {
+      "from": 41.48,
+      "to": 42.03,
+      "speaker": 0,
+      "confidence": 0.43,
+      "final": false
+    },
+    {
+      "from": 42.16,
+      "to": 42.36,
+      "speaker": 1,
+      "confidence": 0.45,
+      "final": false
+    },
+    {
+      "from": 42.36,
+      "to": 42.42,
+      "speaker": 1,
+      "confidence": 0.45,
+      "final": false
+    },
+    {
+      "from": 42.42,
+      "to": 42.85,
+      "speaker": 1,
+      "confidence": 0.45,
+      "final": false
+    },
+    {
+      "from": 42.85,
+      "to": 43.1,
+      "speaker": 1,
+      "confidence": 0.45,
+      "final": false
+    },
+    {
+      "from": 43.1,
+      "to": 43.39,
+      "speaker": 1,
+      "confidence": 0.45,
+      "final": false
+    },
+    {
+      "from": 43.39,
+      "to": 43.76,
+      "speaker": 1,
+      "confidence": 0.45,
+      "final": false
+    },
+    {
+      "from": 44.05,
+      "to": 44.29,
+      "speaker": 1,
+      "confidence": 0.49,
+      "final": false
+    },
+    {
+      "from": 44.29,
+      "to": 44.96,
+      "speaker": 1,
+      "confidence": 0.49,
+      "final": false
+    },
+    {
+      "from": 44.96,
+      "to": 45.66,
+      "speaker": 1,
+      "confidence": 0.49,
+      "final": false
+    },
+    {
+      "from": 45.7,
+      "to": 45.95,
+      "speaker": 1,
+      "confidence": 0.47,
+      "final": false
+    },
+    {
+      "from": 45.95,
+      "to": 46.61,
+      "speaker": 1,
+      "confidence": 0.47,
+      "final": false
+    },
+    {
+      "from": 46.97,
+      "to": 47.17,
+      "speaker": 0,
+      "confidence": 0.37,
+      "final": false
+    },
+    {
+      "from": 47.17,
+      "to": 47.37,
+      "speaker": 0,
+      "confidence": 0.37,
+      "final": false
+    },
+    {
+      "from": 47.37,
+      "to": 47.48,
+      "speaker": 0,
+      "confidence": 0.37,
+      "final": false
+    },
+    {
+      "from": 47.48,
+      "to": 47.55,
+      "speaker": 0,
+      "confidence": 0.37,
+      "final": false
+    },
+    {
+      "from": 47.55,
+      "to": 47.75,
+      "speaker": 0,
+      "confidence": 0.37,
+      "final": false
+    },
+    {
+      "from": 47.75,
+      "to": 48.08,
+      "speaker": 0,
+      "confidence": 0.37,
+      "final": false
+    },
+    {
+      "from": 48.08,
+      "to": 48.54,
+      "speaker": 0,
+      "confidence": 0.37,
+      "final": false
+    },
+    {
+      "from": 48.54,
+      "to": 48.7,
+      "speaker": 0,
+      "confidence": 0.37,
+      "final": false
+    },
+    {
+      "from": 48.7,
+      "to": 48.98,
+      "speaker": 0,
+      "confidence": 0.37,
+      "final": false
+    },
+    {
+      "from": 48.98,
+      "to": 49.21,
+      "speaker": 0,
+      "confidence": 0.37,
+      "final": false
+    },
+    {
+      "from": 49.21,
+      "to": 49.51,
+      "speaker": 0,
+      "confidence": 0.37,
+      "final": false
+    },
+    {
+      "from": 49.51,
+      "to": 49.73,
+      "speaker": 0,
+      "confidence": 0.37,
+      "final": false
+    },
+    {
+      "from": 49.73,
+      "to": 50.12,
+      "speaker": 0,
+      "confidence": 0.37,
+      "final": false
+    },
+    {
+      "from": 50.22,
+      "to": 50.51,
+      "speaker": 0,
+      "confidence": 0.49,
+      "final": false
+    },
+    {
+      "from": 50.51,
+      "to": 51.14,
+      "speaker": 0,
+      "confidence": 0.49,
+      "final": false
+    },
+    {
+      "from": 51.14,
+      "to": 51.44,
+      "speaker": 0,
+      "confidence": 0.49,
+      "final": false
+    },
+    {
+      "from": 51.44,
+      "to": 51.77,
+      "speaker": 0,
+      "confidence": 0.49,
+      "final": false
+    },
+    {
+      "from": 51.77,
+      "to": 52.04,
+      "speaker": 0,
+      "confidence": 0.49,
+      "final": false
+    },
+    {
+      "from": 52.04,
+      "to": 52.38,
+      "speaker": 0,
+      "confidence": 0.49,
+      "final": false
+    },
+    {
+      "from": 53.47,
+      "to": 53.9,
+      "speaker": 1,
+      "confidence": 0.46,
+      "final": false
+    },
+    {
+      "from": 53.9,
+      "to": 54.06,
+      "speaker": 1,
+      "confidence": 0.46,
+      "final": false
+    },
+    {
+      "from": 54.06,
+      "to": 54.19,
+      "speaker": 1,
+      "confidence": 0.46,
+      "final": false
+    },
+    {
+      "from": 54.19,
+      "to": 54.45,
+      "speaker": 1,
+      "confidence": 0.46,
+      "final": false
+    },
+    {
+      "from": 54.45,
+      "to": 54.65,
+      "speaker": 1,
+      "confidence": 0.46,
+      "final": false
+    },
+    {
+      "from": 54.65,
+      "to": 55.28,
+      "speaker": 1,
+      "confidence": 0.46,
+      "final": false
+    },
+    {
+      "from": 55.28,
+      "to": 55.88,
+      "speaker": 1,
+      "confidence": 0.46,
+      "final": false
+    },
+    {
+      "from": 55.88,
+      "to": 56.14,
+      "speaker": 1,
+      "confidence": 0.46,
+      "final": false
+    },
+    {
+      "from": 56.14,
+      "to": 56.37,
+      "speaker": 1,
+      "confidence": 0.46,
+      "final": false
+    },
+    {
+      "from": 56.37,
+      "to": 56.52,
+      "speaker": 1,
+      "confidence": 0.46,
+      "final": false
+    },
+    {
+      "from": 56.52,
+      "to": 56.64,
+      "speaker": 1,
+      "confidence": 0.46,
+      "final": false
+    },
+    {
+      "from": 56.64,
+      "to": 57.15,
+      "speaker": 1,
+      "confidence": 0.46,
+      "final": false
+    },
+    {
+      "from": 57.18,
+      "to": 57.47,
+      "speaker": 1,
+      "confidence": 0.31,
+      "final": false
+    },
+    {
+      "from": 57.47,
+      "to": 57.78,
+      "speaker": 1,
+      "confidence": 0.31,
+      "final": false
+    },
+    {
+      "from": 57.78,
+      "to": 58.08,
+      "speaker": 1,
+      "confidence": 0.31,
+      "final": false
+    },
+    {
+      "from": 58.08,
+      "to": 58.54,
+      "speaker": 1,
+      "confidence": 0.31,
+      "final": false
+    },
+    {
+      "from": 58.86,
+      "to": 59.06,
+      "speaker": 1,
+      "confidence": 0.41,
+      "final": false
+    },
+    {
+      "from": 59.06,
+      "to": 59.29,
+      "speaker": 1,
+      "confidence": 0.41,
+      "final": false
+    },
+    {
+      "from": 59.29,
+      "to": 59.41,
+      "speaker": 1,
+      "confidence": 0.41,
+      "final": false
+    },
+    {
+      "from": 59.41,
+      "to": 59.48,
+      "speaker": 1,
+      "confidence": 0.41,
+      "final": false
+    },
+    {
+      "from": 59.48,
+      "to": 59.69,
+      "speaker": 1,
+      "confidence": 0.41,
+      "final": false
+    },
+    {
+      "from": 59.69,
+      "to": 59.96,
+      "speaker": 1,
+      "confidence": 0.41,
+      "final": false
+    },
+    {
+      "from": 59.96,
+      "to": 60.1,
+      "speaker": 1,
+      "confidence": 0.41,
+      "final": false
+    },
+    {
+      "from": 60.1,
+      "to": 60.67,
+      "speaker": 1,
+      "confidence": 0.41,
+      "final": false
+    },
+    {
+      "from": 60.83,
+      "to": 61.01,
+      "speaker": 1,
+      "confidence": 0.49,
+      "final": false
+    },
+    {
+      "from": 61.01,
+      "to": 61.36,
+      "speaker": 1,
+      "confidence": 0.49,
+      "final": false
+    },
+    {
+      "from": 61.36,
+      "to": 61.67,
+      "speaker": 1,
+      "confidence": 0.49,
+      "final": false
+    },
+    {
+      "from": 61.67,
+      "to": 62.19,
+      "speaker": 1,
+      "confidence": 0.49,
+      "final": false
+    },
+    {
+      "from": 62.34,
+      "to": 62.54,
+      "speaker": 1,
+      "confidence": 0.46,
+      "final": false
+    },
+    {
+      "from": 62.54,
+      "to": 62.75,
+      "speaker": 1,
+      "confidence": 0.46,
+      "final": false
+    },
+    {
+      "from": 62.75,
+      "to": 62.85,
+      "speaker": 1,
+      "confidence": 0.46,
+      "final": false
+    },
+    {
+      "from": 62.85,
+      "to": 63.01,
+      "speaker": 1,
+      "confidence": 0.46,
+      "final": false
+    },
+    {
+      "from": 63.01,
+      "to": 63.72,
+      "speaker": 1,
+      "confidence": 0.46,
+      "final": false
+    },
+    {
+      "from": 63.72,
+      "to": 64.21,
+      "speaker": 1,
+      "confidence": 0.46,
+      "final": false
+    },
+    {
+      "from": 64.39,
+      "to": 64.56,
+      "speaker": 1,
+      "confidence": 0.44,
+      "final": false
+    },
+    {
+      "from": 64.56,
+      "to": 65.24,
+      "speaker": 1,
+      "confidence": 0.44,
+      "final": false
+    },
+    {
+      "from": 65.24,
+      "to": 65.9,
+      "speaker": 1,
+      "confidence": 0.44,
+      "final": false
+    },
+    {
+      "from": 65.9,
+      "to": 66.1,
+      "speaker": 1,
+      "confidence": 0.44,
+      "final": false
+    },
+    {
+      "from": 66.1,
+      "to": 66.17,
+      "speaker": 1,
+      "confidence": 0.44,
+      "final": false
+    },
+    {
+      "from": 66.17,
+      "to": 66.62,
+      "speaker": 1,
+      "confidence": 0.44,
+      "final": false
+    },
+    {
+      "from": 67.35,
+      "to": 67.56,
+      "speaker": 1,
+      "confidence": 0.5,
+      "final": false
+    },
+    {
+      "from": 67.56,
+      "to": 67.94,
+      "speaker": 1,
+      "confidence": 0.5,
+      "final": false
+    },
+    {
+      "from": 67.94,
+      "to": 68.22,
+      "speaker": 1,
+      "confidence": 0.5,
+      "final": false
+    },
+    {
+      "from": 68.22,
+      "to": 68.35,
+      "speaker": 1,
+      "confidence": 0.5,
+      "final": false
+    },
+    {
+      "from": 68.35,
+      "to": 68.48,
+      "speaker": 1,
+      "confidence": 0.5,
+      "final": false
+    },
+    {
+      "from": 68.48,
+      "to": 69.09,
+      "speaker": 1,
+      "confidence": 0.5,
+      "final": false
+    },
+    {
+      "from": 69.09,
+      "to": 69.23,
+      "speaker": 1,
+      "confidence": 0.5,
+      "final": false
+    },
+    {
+      "from": 69.23,
+      "to": 69.71,
+      "speaker": 1,
+      "confidence": 0.5,
+      "final": false
+    },
+    {
+      "from": 69.74,
+      "to": 70.43,
+      "speaker": 1,
+      "confidence": 0.53,
+      "final": false
+    },
+    {
+      "from": 70.43,
+      "to": 71.24,
+      "speaker": 1,
+      "confidence": 0.53,
+      "final": false
+    },
+    {
+      "from": 71.34,
+      "to": 71.68,
+      "speaker": 1,
+      "confidence": 0.42,
+      "final": false
+    },
+    {
+      "from": 71.71,
+      "to": 71.96,
+      "speaker": 1,
+      "confidence": 0.46,
+      "final": false
+    },
+    {
+      "from": 71.96,
+      "to": 72.05,
+      "speaker": 1,
+      "confidence": 0.46,
+      "final": false
+    },
+    {
+      "from": 72.05,
+      "to": 72.2,
+      "speaker": 1,
+      "confidence": 0.46,
+      "final": false
+    },
+    {
+      "from": 72.2,
+      "to": 72.4,
+      "speaker": 1,
+      "confidence": 0.46,
+      "final": false
+    },
+    {
+      "from": 72.4,
+      "to": 72.9,
+      "speaker": 1,
+      "confidence": 0.46,
+      "final": false
+    },
+    {
+      "from": 73.05,
+      "to": 73.18,
+      "speaker": 1,
+      "confidence": 0.47,
+      "final": false
+    },
+    {
+      "from": 73.18,
+      "to": 73.44,
+      "speaker": 1,
+      "confidence": 0.47,
+      "final": false
+    },
+    {
+      "from": 73.44,
+      "to": 73.63,
+      "speaker": 1,
+      "confidence": 0.47,
+      "final": false
+    },
+    {
+      "from": 73.63,
+      "to": 74.27,
+      "speaker": 1,
+      "confidence": 0.47,
+      "final": false
+    },
+    {
+      "from": 74.42,
+      "to": 74.55,
+      "speaker": 1,
+      "confidence": 0.44,
+      "final": false
+    },
+    {
+      "from": 74.55,
+      "to": 75.37,
+      "speaker": 1,
+      "confidence": 0.44,
+      "final": false
+    },
+    {
+      "from": 75.4,
+      "to": 75.57,
+      "speaker": 1,
+      "confidence": 0.42,
+      "final": false
+    },
+    {
+      "from": 75.57,
+      "to": 75.69,
+      "speaker": 1,
+      "confidence": 0.42,
+      "final": false
+    },
+    {
+      "from": 75.69,
+      "to": 76.36,
+      "speaker": 1,
+      "confidence": 0.42,
+      "final": false
+    },
+    {
+      "from": 77.17,
+      "to": 77.39,
+      "speaker": 0,
+      "confidence": 0.43,
+      "final": false
+    },
+    {
+      "from": 77.39,
+      "to": 77.5,
+      "speaker": 0,
+      "confidence": 0.43,
+      "final": false
+    },
+    {
+      "from": 77.5,
+      "to": 77.73,
+      "speaker": 0,
+      "confidence": 0.43,
+      "final": false
+    },
+    {
+      "from": 77.73,
+      "to": 77.84,
+      "speaker": 0,
+      "confidence": 0.43,
+      "final": false
+    },
+    {
+      "from": 77.84,
+      "to": 78.0,
+      "speaker": 0,
+      "confidence": 0.43,
+      "final": false
+    },
+    {
+      "from": 78.0,
+      "to": 78.48,
+      "speaker": 0,
+      "confidence": 0.43,
+      "final": false
+    },
+    {
+      "from": 78.48,
+      "to": 78.6,
+      "speaker": 0,
+      "confidence": 0.43,
+      "final": false
+    },
+    {
+      "from": 78.6,
+      "to": 78.92,
+      "speaker": 0,
+      "confidence": 0.43,
+      "final": false
+    },
+    {
+      "from": 78.92,
+      "to": 79.37,
+      "speaker": 0,
+      "confidence": 0.43,
+      "final": false
+    },
+    {
+      "from": 79.37,
+      "to": 79.52,
+      "speaker": 0,
+      "confidence": 0.43,
+      "final": false
+    },
+    {
+      "from": 79.52,
+      "to": 79.9,
+      "speaker": 0,
+      "confidence": 0.43,
+      "final": false
+    },
+    {
+      "from": 79.9,
+      "to": 80.24,
+      "speaker": 0,
+      "confidence": 0.43,
+      "final": false
+    },
+    {
+      "from": 80.31,
+      "to": 80.41,
+      "speaker": 0,
+      "confidence": 0.38,
+      "final": false
+    },
+    {
+      "from": 80.41,
+      "to": 80.79,
+      "speaker": 0,
+      "confidence": 0.38,
+      "final": false
+    },
+    {
+      "from": 80.79,
+      "to": 81.07,
+      "speaker": 0,
+      "confidence": 0.38,
+      "final": false
+    },
+    {
+      "from": 81.07,
+      "to": 81.85,
+      "speaker": 0,
+      "confidence": 0.38,
+      "final": false
+    },
+    {
+      "from": 81.85,
+      "to": 82.48,
+      "speaker": 0,
+      "confidence": 0.38,
+      "final": false
+    },
+    {
+      "from": 82.7,
+      "to": 82.85,
+      "speaker": 1,
+      "confidence": 0.32,
+      "final": false
+    },
+    {
+      "from": 82.85,
+      "to": 83.77,
+      "speaker": 1,
+      "confidence": 0.32,
+      "final": false
+    },
+    {
+      "from": 83.8,
+      "to": 83.91,
+      "speaker": 1,
+      "confidence": 0.37,
+      "final": false
+    },
+    {
+      "from": 83.91,
+      "to": 84.09,
+      "speaker": 1,
+      "confidence": 0.37,
+      "final": false
+    },
+    {
+      "from": 84.09,
+      "to": 84.21,
+      "speaker": 1,
+      "confidence": 0.37,
+      "final": false
+    },
+    {
+      "from": 84.21,
+      "to": 84.67,
+      "speaker": 1,
+      "confidence": 0.37,
+      "final": false
+    },
+    {
+      "from": 84.67,
+      "to": 84.98,
+      "speaker": 1,
+      "confidence": 0.37,
+      "final": false
+    },
+    {
+      "from": 84.98,
+      "to": 85.04,
+      "speaker": 1,
+      "confidence": 0.37,
+      "final": false
+    },
+    {
+      "from": 85.04,
+      "to": 85.34,
+      "speaker": 1,
+      "confidence": 0.37,
+      "final": false
+    },
+    {
+      "from": 85.34,
+      "to": 85.45,
+      "speaker": 1,
+      "confidence": 0.37,
+      "final": false
+    },
+    {
+      "from": 85.45,
+      "to": 85.82,
+      "speaker": 1,
+      "confidence": 0.37,
+      "final": false
+    },
+    {
+      "from": 85.82,
+      "to": 85.9,
+      "speaker": 1,
+      "confidence": 0.37,
+      "final": false
+    },
+    {
+      "from": 85.9,
+      "to": 86.0,
+      "speaker": 1,
+      "confidence": 0.37,
+      "final": false
+    },
+    {
+      "from": 86.0,
+      "to": 86.58,
+      "speaker": 1,
+      "confidence": 0.37,
+      "final": false
+    },
+    {
+      "from": 87.27,
+      "to": 87.44,
+      "speaker": 1,
+      "confidence": 0.41,
+      "final": false
+    },
+    {
+      "from": 87.44,
+      "to": 87.84,
+      "speaker": 1,
+      "confidence": 0.41,
+      "final": false
+    },
+    {
+      "from": 87.84,
+      "to": 87.98,
+      "speaker": 1,
+      "confidence": 0.41,
+      "final": false
+    },
+    {
+      "from": 87.98,
+      "to": 88.44,
+      "speaker": 1,
+      "confidence": 0.41,
+      "final": false
+    },
+    {
+      "from": 88.75,
+      "to": 88.87,
+      "speaker": 1,
+      "confidence": 0.5,
+      "final": false
+    },
+    {
+      "from": 88.87,
+      "to": 89.08,
+      "speaker": 1,
+      "confidence": 0.5,
+      "final": false
+    },
+    {
+      "from": 89.11,
+      "to": 89.58,
+      "speaker": 1,
+      "confidence": 0.45,
+      "final": false
+    },
+    {
+      "from": 89.58,
+      "to": 89.99,
+      "speaker": 1,
+      "confidence": 0.45,
+      "final": false
+    },
+    {
+      "from": 89.99,
+      "to": 90.07,
+      "speaker": 1,
+      "confidence": 0.45,
+      "final": false
+    },
+    {
+      "from": 90.07,
+      "to": 90.72,
+      "speaker": 1,
+      "confidence": 0.45,
+      "final": false
+    },
+    {
+      "from": 90.72,
+      "to": 91.41,
+      "speaker": 1,
+      "confidence": 0.45,
+      "final": false
+    },
+    {
+      "from": 91.63,
+      "to": 91.91,
+      "speaker": 1,
+      "confidence": 0.5,
+      "final": false
+    },
+    {
+      "from": 91.91,
+      "to": 92.02,
+      "speaker": 1,
+      "confidence": 0.5,
+      "final": false
+    },
+    {
+      "from": 92.02,
+      "to": 92.54,
+      "speaker": 1,
+      "confidence": 0.5,
+      "final": false
+    },
+    {
+      "from": 92.54,
+      "to": 93.38,
+      "speaker": 1,
+      "confidence": 0.5,
+      "final": false
+    },
+    {
+      "from": 93.48,
+      "to": 93.66,
+      "speaker": 1,
+      "confidence": 0.41,
+      "final": false
+    },
+    {
+      "from": 93.66,
+      "to": 93.84,
+      "speaker": 1,
+      "confidence": 0.41,
+      "final": false
+    },
+    {
+      "from": 93.84,
+      "to": 93.89,
+      "speaker": 1,
+      "confidence": 0.41,
+      "final": false
+    },
+    {
+      "from": 93.89,
+      "to": 94.35,
+      "speaker": 1,
+      "confidence": 0.41,
+      "final": false
+    },
+    {
+      "from": 94.35,
+      "to": 94.61,
+      "speaker": 1,
+      "confidence": 0.41,
+      "final": false
+    },
+    {
+      "from": 94.61,
+      "to": 94.92,
+      "speaker": 1,
+      "confidence": 0.41,
+      "final": false
+    },
+    {
+      "from": 94.92,
+      "to": 95.0,
+      "speaker": 1,
+      "confidence": 0.41,
+      "final": false
+    },
+    {
+      "from": 95.0,
+      "to": 95.7,
+      "speaker": 1,
+      "confidence": 0.41,
+      "final": false
+    },
+    {
+      "from": 96.4,
+      "to": 96.57,
+      "speaker": 1,
+      "confidence": 0.48,
+      "final": false
+    },
+    {
+      "from": 96.57,
+      "to": 97.01,
+      "speaker": 1,
+      "confidence": 0.48,
+      "final": false
+    },
+    {
+      "from": 97.01,
+      "to": 97.17,
+      "speaker": 1,
+      "confidence": 0.48,
+      "final": false
+    },
+    {
+      "from": 97.17,
+      "to": 97.28,
+      "speaker": 1,
+      "confidence": 0.48,
+      "final": false
+    },
+    {
+      "from": 97.28,
+      "to": 97.4,
+      "speaker": 1,
+      "confidence": 0.48,
+      "final": false
+    },
+    {
+      "from": 97.4,
+      "to": 97.56,
+      "speaker": 1,
+      "confidence": 0.48,
+      "final": false
+    },
+    {
+      "from": 97.56,
+      "to": 97.91,
+      "speaker": 1,
+      "confidence": 0.48,
+      "final": false
+    },
+    {
+      "from": 97.91,
+      "to": 98.24,
+      "speaker": 1,
+      "confidence": 0.48,
+      "final": false
+    },
+    {
+      "from": 98.24,
+      "to": 98.49,
+      "speaker": 1,
+      "confidence": 0.48,
+      "final": false
+    },
+    {
+      "from": 98.49,
+      "to": 98.84,
+      "speaker": 1,
+      "confidence": 0.48,
+      "final": false
+    },
+    {
+      "from": 98.87,
+      "to": 99.08,
+      "speaker": 1,
+      "confidence": 0.41,
+      "final": false
+    },
+    {
+      "from": 99.08,
+      "to": 99.33,
+      "speaker": 1,
+      "confidence": 0.41,
+      "final": false
+    },
+    {
+      "from": 99.33,
+      "to": 99.79,
+      "speaker": 1,
+      "confidence": 0.41,
+      "final": false
+    },
+    {
+      "from": 99.82,
+      "to": 100.0,
+      "speaker": 1,
+      "confidence": 0.57,
+      "final": false
+    },
+    {
+      "from": 100.0,
+      "to": 100.41,
+      "speaker": 1,
+      "confidence": 0.57,
+      "final": false
+    },
+    {
+      "from": 100.41,
+      "to": 101.12,
+      "speaker": 1,
+      "confidence": 0.57,
+      "final": false
+    },
+    {
+      "from": 101.37,
+      "to": 101.79,
+      "speaker": 1,
+      "confidence": 0.43,
+      "final": false
+    },
+    {
+      "from": 101.79,
+      "to": 101.9,
+      "speaker": 1,
+      "confidence": 0.43,
+      "final": false
+    },
+    {
+      "from": 101.9,
+      "to": 102.15,
+      "speaker": 1,
+      "confidence": 0.43,
+      "final": false
+    },
+    {
+      "from": 102.15,
+      "to": 102.9,
+      "speaker": 1,
+      "confidence": 0.43,
+      "final": false
+    },
+    {
+      "from": 102.9,
+      "to": 103.29,
+      "speaker": 1,
+      "confidence": 0.43,
+      "final": false
+    },
+    {
+      "from": 103.29,
+      "to": 103.51,
+      "speaker": 1,
+      "confidence": 0.43,
+      "final": false
+    },
+    {
+      "from": 103.51,
+      "to": 103.6,
+      "speaker": 1,
+      "confidence": 0.43,
+      "final": false
+    },
+    {
+      "from": 103.6,
+      "to": 103.99,
+      "speaker": 1,
+      "confidence": 0.43,
+      "final": false
+    },
+    {
+      "from": 104.53,
+      "to": 104.74,
+      "speaker": 1,
+      "confidence": 0.42,
+      "final": false
+    },
+    {
+      "from": 104.74,
+      "to": 104.88,
+      "speaker": 1,
+      "confidence": 0.42,
+      "final": false
+    },
+    {
+      "from": 104.88,
+      "to": 105.24,
+      "speaker": 1,
+      "confidence": 0.42,
+      "final": false
+    },
+    {
+      "from": 105.24,
+      "to": 105.4,
+      "speaker": 1,
+      "confidence": 0.42,
+      "final": false
+    },
+    {
+      "from": 105.4,
+      "to": 105.84,
+      "speaker": 1,
+      "confidence": 0.42,
+      "final": false
+    },
+    {
+      "from": 105.87,
+      "to": 106.4,
+      "speaker": 1,
+      "confidence": 0.56,
+      "final": false
+    },
+    {
+      "from": 106.47,
+      "to": 106.85,
+      "speaker": 1,
+      "confidence": 0.46,
+      "final": false
+    },
+    {
+      "from": 106.85,
+      "to": 107.52,
+      "speaker": 1,
+      "confidence": 0.46,
+      "final": false
+    },
+    {
+      "from": 107.7,
+      "to": 107.83,
+      "speaker": 1,
+      "confidence": 0.45,
+      "final": false
+    },
+    {
+      "from": 107.83,
+      "to": 108.59,
+      "speaker": 1,
+      "confidence": 0.45,
+      "final": false
+    },
+    {
+      "from": 108.62,
+      "to": 108.94,
+      "speaker": 1,
+      "confidence": 0.36,
+      "final": false
+    },
+    {
+      "from": 108.94,
+      "to": 109.3,
+      "speaker": 1,
+      "confidence": 0.36,
+      "final": false
+    },
+    {
+      "from": 109.33,
+      "to": 109.45,
+      "speaker": 1,
+      "confidence": 0.36,
+      "final": false
+    },
+    {
+      "from": 109.45,
+      "to": 109.5,
+      "speaker": 1,
+      "confidence": 0.36,
+      "final": false
+    },
+    {
+      "from": 109.5,
+      "to": 109.95,
+      "speaker": 1,
+      "confidence": 0.36,
+      "final": false
+    },
+    {
+      "from": 109.95,
+      "to": 110.54,
+      "speaker": 1,
+      "confidence": 0.36,
+      "final": false
+    },
+    {
+      "from": 110.54,
+      "to": 110.86,
+      "speaker": 1,
+      "confidence": 0.36,
+      "final": true
+    }
+  ]
+}
